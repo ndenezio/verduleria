@@ -1,0 +1,43 @@
+body {
+    background-color: rgba(87, 104, 180, 0.8);
+    color: #000;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+table {
+    background-color: rgb(196, 203, 255);
+}
+
+.tabla {
+    margin: 0 auto;
+
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
+
+.enter_prod {
+    background-color: rgb(74, 63, 191);
+    color: #000;
+    border-radius: 3%;
+}
+
+.undo_prod {
+    background-color: rgb(74, 63, 191);
+    color: #000;
+    border-radius: 3%;
+}
+
+.send_button {
+    border: none;
+    width: 30%;
+}
+
+.navbar {
+    background-color: rgb(74, 63, 191);
+    
+    
+}
